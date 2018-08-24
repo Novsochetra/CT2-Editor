@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Players>
+	<player>
+		<xValue>01</xValue>
+		<fullname>Oozora Tsubasa</fullname>
+    <displayname>Tsubasa</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>02</xValue>
+		<fullname>Renato</fullname>
+    <displayname>Renato</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>03</xValue>
+		<fullname>Lima</fullname>
+    <displayname>Lima</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>04</xValue>
+		<fullname>Marini</fullname>
+    <displayname>Marini</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>05</xValue>
+		<fullname>Amaral</fullname>
+    <displayname>Amaral</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>06</xValue>
+		<fullname>Dotoru</fullname>
+    <displayname>Dotoru</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>07</xValue>
+		<fullname>Batista</fullname>
+    <displayname>Batista</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>08</xValue>
+		<fullname>Tahamata</fullname>
+    <displayname>Tahamata</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>09</xValue>
+		<fullname>Babington</fullname>
+    <displayname>Babington</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>0A</xValue>
+		<fullname>Gil</fullname>
+    <displayname>Gil</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>0B</xValue>
+		<fullname>Platon</fullname>
+    <displayname>Platon</displayname>
+		<team>São Paulo</team>
+	</player>
+	<player>
+		<xValue>0C</xValue>
+		<fullname>Urabe Hanji</fullname>
+    <displayname>Hanji</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>0D</xValue>
+		<fullname>Kishida Takeshi</fullname>
+    <displayname>Takeshi</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>0E</xValue>
+		<fullname>Nakayama Masao</fullname>
+    <displayname>Nakayama</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>0F</xValue>
+		<fullname>Morisaki Yuzo</fullname>
+    <displayname>Morisaki</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>10</xValue>
+		<fullname>Takasugi Shingo</fullname>
+    <displayname>Shingo</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>11</xValue>
+		<fullname>Misaki Taro</fullname>
+    <displayname>Misaki</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>12</xValue>
+		<fullname>Izawa Mamoru</fullname>
+    <displayname>Izawa</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>13</xValue>
+		<fullname>Taki Hajime</fullname>
+    <displayname>Taki</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>14</xValue>
+		<fullname>Ishizaki Ryo</fullname>
+    <displayname>Ishizaki</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>15</xValue>
+		<fullname>Nitta Shun</fullname>
+    <displayname>Nitta</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>16</xValue>
+		<fullname>Kisugi Teppei</fullname>
+    <displayname>Kisugi</displayname>
+		<team>Nankatsu</team>
+	</player>
+	<player>
+		<xValue>17</xValue>
+		<fullname>Masao Tachibana</fullname>
+    <displayname>Masao</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>18</xValue>
+		<fullname>Kazuo Tachibana</fullname>
+    <displayname>Kazuo</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>19</xValue>
+		<fullname>Sano Mitsuru</fullname>
+    <displayname>Sano</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>1A</xValue>
+		<fullname>Kojiro Hyuga</fullname>
+    <displayname>Hyuga</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>1B</xValue>
+		<fullname>Soda Makoto</fullname>
+    <displayname>Soda</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>1C</xValue>
+		<fullname>Jitou</fullname>
+    <displayname>Jitou</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>1D</xValue>
+		<fullname>Matsuyama Hikaru</fullname>
+    <displayname>Matsuyama</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>20</xValue>
+		<fullname>Misugi Jun</fullname>
+    <displayname>Misugi</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>21</xValue>
+		<fullname>Genzo Wakabayashi</fullname>
+    <displayname>Wakabayashi</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>22</xValue>
+		<fullname>Ken Wakashimazu</fullname>
+    <displayname>Wakashimazu</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>23</xValue>
+		<fullname>Satorusute</fullname>
+    <displayname>Satorusute</displayname>
+		<team>Corinthians</team>
+	</player>
+	<player>
+		<xValue>24</xValue>
+		<fullname>Riberio</fullname>
+    <displayname>Riberio</displayname>
+		<team>Corinthians</team>
+	</player>
+	<player>
+		<xValue>25</xValue>
+		<fullname>da Silva</fullname>
+    <displayname>da Silva</displayname>
+		<team>Gremio</team>
+	</player>
+	<player>
+		<xValue>26</xValue>
+		<fullname>Claudio Meão</fullname>
+    <displayname>Meao</displayname>
+		<team>Gremio</team>
+	</player>
+	<player>
+		<xValue>27</xValue>
+		<fullname>Toninho</fullname>
+    <displayname>Toninho</displayname>
+		<team>Palmeiras</team>
+	</player>
+	<player>
+		<xValue>28</xValue>
+		<fullname>Nei</fullname>
+    <displayname>Nei</displayname>
+		<team>Palmeiras</team>
+	</player>
+	<player>
+		<xValue>29</xValue>
+		<fullname>Zagalo</fullname>
+    <displayname>Zagalo</displayname>
+		<team>Santos</team>
+	</player>
+	<player>
+		<xValue>2B</xValue>
+		<fullname>Carlos Santana</fullname>
+    <displayname>Carlos</displayname>
+		<team>Brazil</team>
+	</player>
+	<player>
+		<xValue>2C</xValue>
+		<fullname>Santamaria</fullname>
+    <displayname>Santamaria</displayname>
+		<team>Brazil</team>
+	</player>
+	<player>
+		<xValue>2D</xValue>
+		<fullname>Jetorio</fullname>
+    <displayname>Jetorio</displayname>
+		<team>Brazil</team>
+	</player>
+	<player>
+		<xValue>30</xValue>
+		<fullname>Masao Tachibana</fullname>
+    <displayname>Masao</displayname>
+		<team>Akita</team>
+	</player>
+	<player>
+		<xValue>31</xValue>
+		<fullname>Kazuo Tachibana</fullname>
+    <displayname>Kazuo</displayname>
+		<team>Akita</team>
+	</player>
+	<player>
+		<xValue>32</xValue>
+		<fullname>Soda Makoto</fullname>
+    <displayname>Soda</displayname>
+		<team>Tatsunami</team>
+	</player>
+	<player>
+		<xValue>33</xValue>
+		<fullname>Nakanishi Taichi</fullname>
+    <displayname>Nakanishi</displayname>
+		<team>Tatsunami</team>
+	</player>
+	<player>
+		<xValue>34</xValue>
+		<fullname>Misugi Jun</fullname>
+    <displayname>Misugi</displayname>
+		<team>Musashi</team>
+	</player>
+	<player>
+		<xValue>35</xValue>
+		<fullname>Matsuyama Hikaru</fullname>
+    <displayname>Matsuyama</displayname>
+		<team>Furano</team>
+	</player>
+	<player>
+		<xValue>36</xValue>
+		<fullname>Kojiro Hyuga</fullname>
+    <displayname>Hyuga</displayname>
+		<team>Toho</team>
+	</player>
+	<player>
+		<xValue>37</xValue>
+		<fullname>Sorimachi Kazuki</fullname>
+    <displayname>Sorimachi</displayname>
+		<team>Toho</team>
+	</player>
+	<player>
+		<xValue>38</xValue>
+		<fullname>Sawada Takeshi</fullname>
+    <displayname>Sawada</displayname>
+		<team>Toho</team>
+	</player>
+	<player>
+		<xValue>39</xValue>
+		<fullname>Ken Wakashimazu</fullname>
+    <displayname>Wakashimazu</displayname>
+		<team>Toho</team>
+	</player>
+	<player>
+		<xValue>3A</xValue>
+		<fullname>Rampion</fullname>
+    <displayname>Rampion</displayname>
+		<team>Italy</team>
+	</player>
+	<player>
+		<xValue>3B</xValue>
+		<fullname>Ramon Victorino</fullname>
+    <displayname>Ramon</displayname>
+		<team>Uruguay</team>
+	</player>
+	<player>
+		<xValue>3C</xValue>
+		<fullname>da Silva</fullname>
+    <displayname>da Silva</displayname>
+		<team>Uruguay</team>
+	</player>
+	<player>
+		<xValue>3D</xValue>
+		<fullname>Theodor Capellmann</fullname>
+    <displayname>Capellmann</displayname>
+		<team>Hamburg SV</team>
+	</player>
+	<player>
+		<xValue>3E</xValue>
+		<fullname>Metzer</fullname>
+    <displayname>Metzer</displayname>
+		<team>Hamburg SV</team>
+	</player>
+	<player>
+		<xValue>3F</xValue>
+		<fullname>Herman Kaltz</fullname>
+    <displayname>Kaltz</displayname>
+		<team>Hamburg SV</team>
+	</player>
+	<player>
+		<xValue>40</xValue>
+		<fullname>Genzo Wakabayashi</fullname>
+    <displayname>Wakabayashi</displayname>
+		<team>Hamburg SV</team>
+	</player>
+	<player>
+		<xValue>48</xValue>
+		<fullname>Jito Hiroshi</fullname>
+    <displayname>Jito</displayname>
+		<team>Japan</team>
+	</player>
+	<player>
+		<xValue>4D</xValue>
+		<fullname>Hanne Lee</fullname>
+    <displayname>Hanne</displayname>
+		<team>China</team>
+	</player>
+	<player>
+		<xValue>4E</xValue>
+		<fullname>Bankun Lee</fullname>
+    <displayname>Bankun</displayname>
+		<team>China</team>
+	</player>
+	<player>
+		<xValue>4F</xValue>
+		<fullname>Sha</fullname>
+    <displayname>Sha</displayname>
+		<team>South Korea</team>
+	</player>
+	<player>
+		<xValue>50</xValue>
+		<fullname>Kim</fullname>
+    <displayname>Kim</displayname>
+		<team>South Korea</team>
+	</player>
+	<player>
+		<xValue>51</xValue>
+		<fullname>Maher</fullname>
+    <displayname>Maher</displayname>
+		<team>Poland</team>
+	</player>
+	<player>
+		<xValue>52</xValue>
+		<fullname>Yaisch</fullname>
+    <displayname>Yaisch</displayname>
+		<team>Poland</team>
+	</player>
+	<player>
+		<xValue>53</xValue>
+		<fullname>Lorimer</fullname>
+    <displayname>Lorimer</displayname>
+		<team>England</team>
+	</player>
+	<player>
+		<xValue>54</xValue>
+		<fullname>Steve Robson</fullname>
+    <displayname>Robson</displayname>
+		<team>England</team>
+	</player>
+	<player>
+		<xValue>55</xValue>
+		<fullname>Beraev</fullname>
+    <displayname>Beraev</displayname>
+		<team>URSS</team>
+	</player>
+	<player>
+		<xValue>56</xValue>
+		<fullname>Rashin</fullname>
+    <displayname>Rashin</displayname>
+		<team>URSS</team>
+	</player>
+	<player>
+		<xValue>57</xValue>
+		<fullname>Lui Napoleon</fullname>
+    <displayname>Napoleon</displayname>
+		<team>France</team>
+	</player>
+	<player>
+		<xValue>58</xValue>
+		<fullname>El Cid Pierre</fullname>
+    <displayname>Pierre</displayname>
+		<team>France</team>
+	</player>
+	<player>
+		<xValue>59</xValue>
+		<fullname>Espani</fullname>
+    <displayname>Espani</displayname>
+		<team>Mexico</team>
+	</player>
+	<player>
+		<xValue>5B</xValue>
+		<fullname>Gino Fernandez</fullname>
+    <displayname>Fernandez</displayname>
+		<team>Italy</team>
+	</player>
+	<player>
+		<xValue>5C</xValue>
+		<fullname>Isurazu</fullname>
+    <displayname>Isurazu</displayname>
+		<team>Holland</team>
+	</player>
+	<player>
+		<xValue>5D</xValue>
+		<fullname>Libuta</fullname>
+    <displayname>Libuta</displayname>
+		<team>Holland</team>
+	</player>
+	<player>
+		<xValue>5E</xValue>
+		<fullname>Alan Pascal</fullname>
+    <displayname>Pascal</displayname>
+		<team>Argentina</team>
+	</player>
+	<player>
+		<xValue>60</xValue>
+		<fullname>Juan Diaz</fullname>
+    <displayname>Diaz</displayname>
+		<team>Argentina</team>
+	</player>
+	<player>
+		<xValue>61</xValue>
+		<fullname>Babington</fullname>
+    <displayname>Babington</displayname>
+		<team>Argentina</team>
+	</player>
+	<player>
+		<xValue>62</xValue>
+		<fullname>Luis Galvan</fullname>
+    <displayname>Galvan</displayname>
+		<team>Argentina</team>
+	</player>
+	<player>
+		<xValue>63</xValue>
+		<fullname>Karl Heinz Schneider</fullname>
+    <displayname>Schneider</displayname>
+		<team>Germany</team>
+	</player>
+	<player>
+		<xValue>64</xValue>
+		<fullname>Manfred Margus</fullname>
+    <displayname>Manfred</displayname>
+		<team>Germany</team>
+	</player>
+	<player>
+		<xValue>65</xValue>
+		<fullname>Hermann Kaltz</fullname>
+    <displayname>Kaltz</displayname>
+		<team>Germany</team>
+	</player>
+	<player>
+		<xValue>66</xValue>
+		<fullname>Mezza</fullname>
+    <displayname>Mezza</displayname>
+		<team>Germany</team>
+	</player>
+	<player>
+		<xValue>67</xValue>
+		<fullname>Franz Schester</fullname>
+    <displayname>Franz</displayname>
+		<team>Germany</team>
+	</player>
+	<player>
+		<xValue>68</xValue>
+		<fullname>Theodor Capellmann</fullname>
+    <displayname>Capellmann</displayname>
+		<team>Germany</team>
+	</player>
+	<player>
+		<xValue>69</xValue>
+		<fullname>Duter Muller</fullname>
+    <displayname>Muller</displayname>
+		<team>Germany</team>
+	</player>
+	<player>
+		<xValue>72</xValue>
+		<fullname>Dirceu</fullname>
+    <displayname>Dirceu</displayname>
+		<team>Brazil</team>
+	</player>
+	<player>
+		<xValue>73</xValue>
+		<fullname>Jetorio</fullname>
+    <displayname>Jetorio</displayname>
+		<team>Brazil</team>
+	</player>
+	<player>
+		<xValue>74</xValue>
+		<fullname>Elzo Gertize</fullname>
+    <displayname>Gertize</displayname>
+		<team>Brazil</team>
+	</player>
+	<player>
+		<xValue>75</xValue>
+		<fullname>Arthur A. Coimbra</fullname>
+    <displayname>Coimbra</displayname>
+		<team>Brazil</team>
+	</player>	
+</Players>

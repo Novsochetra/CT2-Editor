@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Musics>
+  <Music>
+    <xValue>32</xValue>
+    <tracknumber>00</tracknumber>
+    <title>Hurry Up!</title>
+    <descri>Last five minutes of the game</descri>
+  </Music>
+  <Music>
+    <xValue>33</xValue>
+    <tracknumber>01</tracknumber>
+    <title>Charging Striker</title>
+    <descri>Password/Overtime PK</descri>
+  </Music>
+
+  <Music>
+    <xValue></xValue>
+    <tracknumber>03</tracknumber>
+    <title>Immense Velocity</title>
+    <descri>Opponent: Rio Cup</descri>
+  </Music>
+  
+  <Music>
+    <xValue></xValue>
+    <tracknumber>06</tracknumber>
+    <title>Third Attack</title>
+    <descri>Opponent: Germany</descri>
+  </Music>
+
+  <Music>
+    <xValue></xValue>
+    <tracknumber>10</tracknumber>
+    <title>Run With the Wind</title>
+    <descri>São Paulo's theme</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <tracknumber>14</tracknumber>
+    <title>N/A</title>
+    <descri>Opponent: Flamengo</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <tracknumber>15</tracknumber>
+    <title>N/A</title>
+    <descri>Scoring a goal</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <tracknumber>16</tracknumber>
+    <title>N/A</title>
+    <descri>Enemy scores a goal</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <tracknumber>17</tracknumber>
+    <title>N/A</title>
+    <descri>Foul</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <tracknumber>18</tracknumber>
+    <title>Before the Game</title>
+    <descri>Starting game, but not kicking off</descri>
+  </Music>
+
+  <Music>
+    <xValue></xValue>
+    <tracknumber>26</tracknumber>
+    <title>Sore oretachi no kachida</title>
+    <descri>Victory ceremony for Rio Cup and Japan Cup</descri>
+  </Music>
+  
+  <Music>
+    <xValue></xValue>
+    <tracknumber>34</tracknumber>
+    <title>Afternoon Sky</title>
+    <descri>Meeting</descri>
+  </Music>
+
+  <Music>
+    <xValue></xValue>
+    <tracknumber>37</tracknumber>
+    <title>Super Striker</title>
+    <descri>Opening sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <tracknumber>38</tracknumber>
+    <title>Road to Victory</title>
+    <descri>Cast/Credits</descri>
+  </Music>
+  
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Story sequence</descri>
+  </Music>  
+  <Music>
+    <xValue></xValue>
+    <title>Story sequence</title>
+    <descri>Conclusion</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>After the Battle</title>
+    <descri>Story sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Story sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Story sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Demon</title>
+    <descri>Coimbra's theme</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Story sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Conclusion II</title>
+    <descri>Story sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>When Fate Turns</title>
+    <descri>Story sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Stress</title>
+    <descri>Story sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Girou no Cyclone</title>
+    <descri>Tsubasa learns the Cyclone</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Tsubasa</title>
+    <descri>Story sequence</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Victory ceremony for high school soccer</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Victory ceremony for the World Cup</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Sayonara</title>
+    <descri>Story sequence</descri>
+  </Music>
+
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Lose a game</descri>
+  </Music>
+   
+  <Music>
+    <xValue></xValue>
+    <title>Crash</title>
+    <descri>Nankatsu's theme</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Nihon Allstar Team Theme</title>
+    <descri>Japan's theme</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Tiger's Edge</title>
+    <descri>Opponent: Toho</descri>
+  </Music>
+
+  <Music>
+    <xValue></xValue>
+    <title>Final Battle</title>
+    <descri>Opponent: Brazil</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Opponent: High school soccer</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>N/A</title>
+    <descri>Opponent: Japan Cup</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Air Slicer</title>
+    <descri>Opponent: Asia Cup</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>First Attack</title>
+    <descri>opponent: World Cup part 2</descri>
+  </Music>
+  <Music>
+    <xValue></xValue>
+    <title>Second Attack</title>
+    <descri>opponent: World Cup part 1</descri>
+  </Music>
+</Musics>

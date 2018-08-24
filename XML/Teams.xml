@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<teams>
+	<team>
+		<index>0</index>  
+		<name>São Paulo</name>
+		<offset>19031</offset>
+    <musicoffset>250044</musicoffset>
+		<totalplayers>11</totalplayers>
+	</team>
+	<team>
+		<index>1</index>
+		<name>Nankatsu</name>
+		<offset>19043</offset>
+    <musicoffset>250045</musicoffset>
+		<totalplayers>11</totalplayers>
+	</team>
+	<team>
+		<index>2</index>
+		<name>Japan</name>
+		<offset>19055</offset>
+    <musicoffset>250046</musicoffset>
+		<totalplayers>21</totalplayers>
+	</team>
+</teams>
